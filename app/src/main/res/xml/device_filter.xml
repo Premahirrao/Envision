@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+        <!-- Logitech Webcam -->
+    <usb-device vendor-id="1133" product-id="2093" /> <!-- Adjust these IDs based on your specific Logitech webcam model -->
+
+</resources>
